@@ -1,4 +1,4 @@
-VERSION = latest_version = '6.0.0'
+VERSION = latest_version = '6.0.1'
 UPDATE_MESSAGE = """
 [MSG] v6 coming very soon
 """.strip()
